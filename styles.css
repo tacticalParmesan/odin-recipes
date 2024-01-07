@@ -1,0 +1,21 @@
+* {
+    background-color: whitesmoke;
+    font-family: 'Consolas', sans-serif;
+}
+
+.header {
+    font-size: 48px;
+    text-align: center;
+    color: #E06143;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.cooking-img {
+    width: 800px;
+    height: 350px;
+    opacity: 0.5;
+    
+}
+
